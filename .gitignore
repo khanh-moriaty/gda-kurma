@@ -1,3 +1,5 @@
 *.mat
 *.png
 *.pyc
+portraits_gender_stats
+./tmp
